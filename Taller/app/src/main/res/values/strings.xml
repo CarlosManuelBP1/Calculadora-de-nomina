@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="salario_basico_label">Salario básico mensual</string>
+    <string name="horas_diurnas_label">Horas extra diurnas</string>
+    <string name="horas_nocturnas_label">Horas extra nocturnas</string>
+    <string name="es_dominical_label">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa_label">La empresa suministra el transporte</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="valor_hora">Valor hora ordinaria</string>
+    <string name="salario_basico_title">Salario básico</string>
+    <string name="horas_extra">Horas extra</string>
+    <string name="auxilio_transporte">Auxilio de transporte</string>
+    <string name="total_devengado">Total devengado</string>
+    <string name="salud_deduccion">Salud (4 %)</string>
+    <string name="pension_deduccion">Pensión (4 %)</string>
+    <string name="fondo_solidaridad">Fondo de Solidaridad Pensional (1 %)</string>
+    <string name="total_deducciones">Total deducciones</string>
+    <string name="salario_neto">Salario neto a recibir</string>
+
+    <string name="devengado_header">Devengado</string>
+    <string name="deducciones_header">Deducciones</string>
+    <string name="resultado_header">Resultado</string>
+
+    <string name="error_salario_invalido">Ingrese un salario válido</string>
+    <string name="error_salario_minimo">El salario no puede ser inferior al mínimo ($ 1.750.905)</string>
+    <string name="error_horas_extra_negativas">Las horas extra deben ser un número mayor o igual a cero</string>
+    <string name="error_exceso_horas_extra">El total de horas extra no puede superar 48 en el mes</string>
+
+    <string name="rango_1_desc">Rango 1: con derecho a auxilio de transporte</string>
+    <string name="rango_2_desc">Rango 2: sin auxilio de transporte ni Fondo de Solidaridad</string>
+    <string name="rango_3_desc">Rango 3: aporta al Fondo de Solidaridad Pensional</string>
+    <string name="desc_imagen_rango">Imagen de rango salarial</string>
+</resources>
